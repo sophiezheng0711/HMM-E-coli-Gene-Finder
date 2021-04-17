@@ -1,4 +1,4 @@
-# CS4775 Final Project
+# HMM E.coli Gene Finder
 
 *A hidden Markov model that finds genes in E.coli DNA* (Krogh et al) reimplementation with both simple and complex models.
 
